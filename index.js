@@ -1,1 +1,1 @@
-// halo, namaku adalah william yangjaya
+halo, namaku adalah william yangjaya
