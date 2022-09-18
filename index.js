@@ -1,0 +1,1 @@
+document.writeln('Halo, namaku raihan afdal hadi');
