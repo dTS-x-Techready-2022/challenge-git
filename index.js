@@ -1,1 +1,1 @@
-console.log(`halo, namaku adalah Selvi`)
+`halo, namaku adalah Selvi`
