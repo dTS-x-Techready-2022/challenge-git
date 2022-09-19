@@ -1,0 +1,1 @@
+console.log('halo, namaku adalah Rendy Dwi Proklamanta | 1523649113101-39 | REA4C')
