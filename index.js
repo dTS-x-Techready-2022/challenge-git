@@ -1,3 +1,3 @@
-"halo, namaku adalah Rizal Galuh Gumilang"
+"halo, namaku adalah Rizal Galuh Gumilang";
 
-Reviewer: @irwansyafani
+// Reviewer: @irwansyafani //;
