@@ -1,1 +1,1 @@
-halo, namaku adalah Mustopa Mahmud
+//halo, namaku adalah rizki;
